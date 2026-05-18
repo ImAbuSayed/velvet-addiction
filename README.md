@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-addiction/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Velvet Addiction](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-addiction/) |
+| **Get License** | [Request Licensing for Velvet Addiction](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-addiction/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5cec3cf53d9286b6a8a50dd3b0e280c545d0f61e22aa432b923665a90e0ed5f0` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
