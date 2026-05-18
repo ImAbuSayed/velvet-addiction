@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-addiction/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Velvet Addiction](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-addiction/) |
+| **Get License** | [License this song: Velvet Addiction](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-addiction/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan ch nasha tera velvet da ni
+> Sohniye tu lagdi ae poori tabahi
+> Dil utte challe na zor mera ni
+> You got me hooked, girl, I can't deny
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
